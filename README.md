@@ -7,5 +7,5 @@ python2 encrypt.py nume_parola input.txt output
 
 Pentru decriptare am folosit comanda:
 
-python2 decrypt.py output parolamea2021 input_recuperat.txt
+python2 decrypt.py output nume_parola input_recuperat.txt
 
