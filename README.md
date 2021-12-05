@@ -1,4 +1,13 @@
 # Proiect-Criptare-XOR
+
+Echipa:
+
+Militaru Mihai-Alexandru
+Hutan Mihai-Alexandru
+Bondoc Ana-Maria
+
+# Partea 1:
+
 Fisierele sursa encrypt.py, decrypt.py, input.txt si output
 
 Pentru criptare am folosit comanda:
@@ -9,7 +18,9 @@ Pentru decriptare am folosit comanda:
 
 python2 decrypt.py output nume_parola input_recuperat.txt
 
-# Partea a 2-a :
+# Partea 2:
+
+Link repository al echipei adverse: https://github.com/Meepo39-1/ProiectASC
 
 Parola echipei adverse este: "trivialmente"
 
