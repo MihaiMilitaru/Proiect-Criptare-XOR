@@ -1,10 +1,7 @@
 # Proiect-Criptare-XOR
 
-Echipa:
 
-Militaru Mihai-Alexandru
-Hutan Mihai-Alexandru
-Bondoc Ana-Maria
+Membrii echipei: Militaru Mihai-Alexandru, Hutan Mihai-Alexandru, Bondoc Ana-Maria
 
 # Partea 1:
 
@@ -20,9 +17,12 @@ python2 decrypt.py output nume_parola input_recuperat.txt
 
 # Partea 2:
 
-Link repository al echipei adverse: https://github.com/Meepo39-1/ProiectASC
+Numele echipei: Pythoneers
+Numele echipei adverse: Led xorllin
 
 Parola echipei adverse este: "trivialmente"
+
+Link repository al echipei adverse: https://github.com/Meepo39-1/ProiectASC
 
 Pentru aflarea parolei cu ajutorul fisierului inputul_adversarilor am folosit metoda brute-force si proprietatea parolei de a fi intre 10 si 15 caractere, observand in consola sirul care se repeta, acela fiind parola. Pentru verificare am decriptat prin metoda folosita de adversarii nostri cu parola obtinuta de noi si am ajuns la textul lor initial. 
 Aceasta metoda este prezenta in fisierul brute_force_cracking.py.
