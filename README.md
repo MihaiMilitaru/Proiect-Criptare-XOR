@@ -1,7 +1,7 @@
 # Proiect-Criptare-XOR
 
 
-Membrii echipei: Militaru Mihai-Alexandru, Hutan Mihai-Alexandru, Bondoc Ana-Maria
+Membrii echipei: Militaru Mihai-Alexandru (grupa 143), Hutan Mihai-Alexandru (grupa 143), Bondoc Ana-Maria (grupa 141)
 
 # Partea 1:
 
